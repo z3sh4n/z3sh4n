@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Zeeshan and I'm a PHP Dev, from Surat, India</h2>
+<h2 align="left">Hi 👋! My name is Zeeshan and I'm a Developer, from Surat, India</h2>
 
 ###
 
